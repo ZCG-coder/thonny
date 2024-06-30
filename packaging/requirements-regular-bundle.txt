@@ -7,7 +7,7 @@ asttokens==2.0.*
 Send2Trash==1.8.1b0
 esptool==4.2.*
 bcrypt==3.2.* # has builds available for RPi. Should be good enough for paramiko
-paramiko==2.11.*
+paramiko==3.4.*
 websockets==10.*
 ptyprocess==0.7.*; sys_platform == "linux" or sys_platform == "darwin"
 adafruit_board_toolkit==1.1.0; sys_platform == "win32" or sys_platform == "darwin"
